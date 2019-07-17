@@ -11,7 +11,7 @@
 
     <groupId>com.salesforce.dynamodb</groupId>
     <artifactId>mt-dynamodb-temp</artifactId>
-    <version>0.9.47-SNAPSHOT</version>
+    <version>0.9.47</version>
     <name>mt-dynamodb-temp</name>
     <description>Multitenant support for the AWS Java SDK for Amazon DynamoDB</description>
 
@@ -33,7 +33,7 @@
         <url>https://github.com/sbabu-salesforce/mt-dynamo</url>
         <connection>scm:git:git@github.com:sbabu-salesforce/mt-dynamo.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/sbabu-salesforce/mt-dynamo.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>mt-dynamodb-temp-0.9.47</tag>
     </scm>
     <dependencies>
         <dependency>
